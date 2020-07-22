@@ -36,8 +36,8 @@
         </Career>
 
         <Career
-          companyName="Company Name"
-          title="Your Job Title"
+          companyName="BASF-Petronas Chemicals"
+          title="Technology and Process Optimization - Senior Executive"
           startDate="Start Date"
           endDate="End Date"
         >
